@@ -329,4 +329,4 @@ In this step you will create a Jenkins Freestyle project to automate the tasks i
     
     You should see the following image in your browser:
  
-![alt text](https://github.com/awslabs/aws-cicd-docker-containers/blob/master/images/DockerCloudHelloWorld.png "Whale logo")
+(https://github.com/awslabs/aws-cicd-docker-containers/blob/master/images/DockerCloudHelloWorld.png "Whale logo")
