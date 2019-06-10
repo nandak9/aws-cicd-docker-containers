@@ -1,4 +1,4 @@
-# Continuous Delivery Pipeline for Amazon ECS Using Jenkins, GitHub, and Amazon ECR
+# Continuous Delivery Pipeline for Amazon ECS Using Jenkins, GitHub, and Amazon ECR 
 This getting started guide is intended to help you set up and configure a continuous delivery pipeline for Amazon EC2 Container Service (Amazon ECS) using Jenkins, GitHub, and the Amazon EC2 Container Registry (Amazon ECR). The pipeline builds Docker images from a GitHub repository, pushes those images to an ECR registry, creates an ECS task definition, and then uses that task definition to create a service on the ECS cluster. We use Jenkins to orchestrate the different steps in the workflow.  
  
 ## Prerequisites
